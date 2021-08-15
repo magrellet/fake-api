@@ -33,12 +33,5 @@
         "description": "description product 5",
         "price": 49.99,
         "imageUrl": "https://i.picsum.photos/id/1072/367/267.jpg?hmac=3X5KNBUdLKVOWynjzeZetRb5PN9w1j1Qu7wgjnL8JAs"
-    },
-    {
-        "id": 6,
-        "title": "title 6",
-        "description": "description product 6",
-        "price": 0.99,
-        "imageUrl": "https://i.picsum.photos/id/111/367/267.jpg?hmac=4RBVF232Jl16jusqD0DurHz2lI4m6I8SVW7J6bSnK0Y"
     }
 ]

@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "title 1",
+        "description": "description product 1",
+        "price": 9.99,
+        "imageUrl": "https://i.picsum.photos/id/1060/367/267.jpg?hmac=_f35ErMxK-NZGmHVB2V_JRh4rQQQKD6FRWO7vWy0Ork"
+    },
+    {
+        "id": 2,
+        "title": "title 2", 
+        "description": "description product 2",
+        "price": 19.99,
+        "imageUrl": "https://i.picsum.photos/id/1068/367/267.jpg?hmac=XDerGWE-Mv48n4TF2fJdZ8-ANFzuFWgvZYyfA-2NU3w"
+    },
+    {
+        "id": 3,
+        "title": "title 3",
+        "description": "description product 3",
+        "price": 92.99,
+        "imageUrl": "https://i.picsum.photos/id/1070/367/267.jpg?hmac=zR4kXYfqPUzO7_onnVF1AlT4_ZNtvGbiCuyxGZG2SEA"
+    },
+    {
+        "id": 4,
+        "title": "title 4",
+        "description": "description product 4",
+        "price": 39.99,
+        "imageUrl": "https://i.picsum.photos/id/1071/367/267.jpg?hmac=kmtbcOq-3itSrlz_NbTnRA1xAx7YIv-sTl9p90q5-dM"
+    },
+    {
+        "id": 5,
+        "title": "title 5",
+        "description": "description product 5",
+        "price": 49.99,
+        "imageUrl": "https://i.picsum.photos/id/1072/367/267.jpg?hmac=3X5KNBUdLKVOWynjzeZetRb5PN9w1j1Qu7wgjnL8JAs"
+    },
+    {
+        "id": 6,
+        "title": "title 6",
+        "description": "description product 6",
+        "price": 0.99,
+        "imageUrl": "https://i.picsum.photos/id/111/367/267.jpg?hmac=4RBVF232Jl16jusqD0DurHz2lI4m6I8SVW7J6bSnK0Y"
+    }
+]
